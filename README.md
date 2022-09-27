@@ -1,0 +1,1 @@
+The Socio-Economic and Environment parameter Analysis of the country USA has been done by using the different indicators such as Population, Inflation(Consumer Price)%, GDP Growth%, Unemployement%,Co2 Emissions, Forest Area, Electricity Production etc. 
